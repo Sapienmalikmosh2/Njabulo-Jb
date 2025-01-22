@@ -1,5 +1,5 @@
 {
-  "name":"Njabulo",
+  "name":"Malikmosh",
   "description":"Best whatsapp bot",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.imgur.com/02GMMaE.jpeg",
@@ -69,19 +69,19 @@
       "required":true
       
     },
-    "OWNER_NAME":
+    "OWNER_NAME": "Malikmosh"
     {
     
     "desc": "Your Name",
     "required": false,
-    "value": "Njabulo"
+    "value": "Malikmosh"
   },
-    "NUMERO_OWNER":
+    "NUMERO_OWNER": "256700273834"
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "26777821911"
+    "value": "256700273834"
   },
     "WARN_COUNT":
   {
